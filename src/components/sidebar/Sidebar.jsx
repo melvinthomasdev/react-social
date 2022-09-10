@@ -49,75 +49,75 @@ export default function Sidebar() {
         <ul className="sidebarFriendList">
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
           <li className="sidebarFriend">
             <img className="sidebarFriendImg" src="/assets/person/2.jpeg" alt=""/>
-            <span className="sidebarFriendName"> Jane Doe</span>
+            <span className="sidebarFriendName"> Chloe Decker</span>
           </li>
         </ul>
       </div>
