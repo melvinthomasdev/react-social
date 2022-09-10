@@ -1,6 +1,7 @@
 import "./rightbar.css"
 import { Users } from "../../dummyData"
 import OnlineFriend from "../onlineFriend/OnlineFriend"
+import ProfileFriend from "../profileFriend/ProfileFriend"
 
 export default function Rightbar({ profile }) {
 
@@ -19,7 +20,7 @@ export default function Rightbar({ profile }) {
         <div className="rightbarListContainer">
           <ul className="rightbarFriendList">
             {Users.map((u) => {
-              return <OnlineFriend key={u.di} user={u} />
+              return <OnlineFriend key={u.id} user={u} />
             })}
           </ul>
         </div>
@@ -47,30 +48,9 @@ export default function Rightbar({ profile }) {
         </div>
         <h4 className="rightbarTitle">User Friends</h4>
         <div className="rightbarFollowings">
-          <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="assets/person/1.jpeg" alt="" />
-            <span className="rightbarFollowingName">John Carter</span>
-          </div>
-          <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="assets/person/2.jpeg" alt="" />
-            <span className="rightbarFollowingName">John Carter</span>
-          </div>
-          <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="assets/person/3.jpeg" alt="" />
-            <span className="rightbarFollowingName">John Carter</span>
-          </div>
-          <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="assets/person/4.jpeg" alt="" />
-            <span className="rightbarFollowingName">John Carter</span>
-          </div>
-          <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="assets/person/6.jpeg" alt="" />
-            <span className="rightbarFollowingName">John Carter</span>
-          </div>
-          <div className="rightbarFollowing">
-            <img className="rightbarFollowingImg" src="assets/person/7.jpeg" alt="" />
-            <span className="rightbarFollowingName">John Carter</span>
-          </div>
+          { Users.map((u) => {
+            return <ProfileFriend key={u.id} user={u} />
+          })}
         </div>
       </>
     )
