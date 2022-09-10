@@ -13,295 +13,297 @@ export default function Rightbar() {
         <img className="rightbarAd" src="/assets/ad.png" alt="" />
         <hr className="rightbarHr" />
         <h4 className="rightbarTitle">Online Friends</h4>
-        <ul className="rightbarFriendList">
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-          <li className="rightbarFriend">
-          <div className="rightbarProfileImgContainer">
-            <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
-            <span className="rightbarOnlineBadge"></span>
-          </div>
-          <span className="rightbarUsername">Lucifer Morningstar</span>
-          </li>
-        </ul>
+        <div className="rightbarListContainer">
+          <ul className="rightbarFriendList">
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+            <li className="rightbarFriend">
+            <div className="rightbarProfileImgContainer">
+              <img className="rightbarProfileImg" src="/assets/person/5.jpeg" alt="" />
+              <span className="rightbarOnlineBadge"></span>
+            </div>
+            <span className="rightbarUsername">Lucifer Morningstar</span>
+            </li>
+          </ul>
+        </div>
       </div>
     </div>
   )
