@@ -1,32 +1,37 @@
 import { MoreVert } from '@material-ui/icons'
 import "./post.css"
+import { Users } from "../../dummyData"
 
-export default function Post() {
+
+export default function Post(post) {
+    console.log(post.post.img)
+    const user = Users.filter((u) => u.id === post.post.userId)[0]
+
   return (
     <div className='post'>
         <div className='postWrapper'>
             <div className='postTop'>
                 <div className='postTopLeft'>
-                    <img className='postProfileImg' src='/assets/person/8.jpeg' alt=''/>
-                    <span className='postUsername'>Melissa Miller</span>
-                    <span className='postDate'>2 days ago</span>
+                    <img className='postProfileImg' src={user.profilePicture} alt=''/>
+                    <span className='postUsername'>{user.username}</span>
+                    <span className='postDate'>{post.post.date} </span>
                 </div>
                 <div className='postTopRight'>
                     <MoreVert />
                 </div>
             </div>
             <div className='postCenter'>
-                <span className='postText'>Hey this is my first post...</span>
-                <img className='postImg' src='/assets/post/1.jpeg' alt=''/>
+                <span className='postText'>{post.post?.desc}</span>
+                <img className='postImg' src={post.post.photo} alt=''/>
             </div>
             <div className='postBottom'>
                 <div className='postBottomLeft'>
                     <img className="likeIcon" src='/assets/like.png' alt=''/>
                     <img className="likeIcon" src='/assets/heart.png' alt=''/>
-                    <span className='postLikeCounter'> 32 Likes</span>
+                    <span className='postLikeCounter'> {post.post.like}</span>
                 </div>
                 <div className='postBottomRight'>
-                    <span className='postCommentText'>9 Comments</span>
+                    <span className='postCommentText'>{post.post.comment} Comments</span>
                 </div>
             </div>
         </div>        
